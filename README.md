@@ -5,5 +5,5 @@
  HTML5 | CSS3 | JavaScript
  <br>
 # Preview
+![Screenshot_3](https://user-images.githubusercontent.com/26188366/137605966-836e6a52-16f1-4fed-9a7c-dc1180440698.png)
 
-![Screenshot_2](https://user-images.githubusercontent.com/26188366/137605529-0fa4d2fd-6aef-4b75-9265-a5745e3ecd07.png)
